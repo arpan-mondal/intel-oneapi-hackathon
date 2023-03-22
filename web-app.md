@@ -1,6 +1,6 @@
 # Challenge - Web App for Prediction of Quality of Fresh Water
 
-This challenge 1 project also comes with a web app so you can easily use the model to predict new data, it also provides a simple dashboard to show some key insights from the dataset.
+This challenge project also comes with a web app so you can easily use the model to predict new data, it also provides a simple dashboard to show some key insights from the dataset.
 
 You'll need Docker installed to run the web app (technically you don't need to but this makes the process a lot easier).
 
