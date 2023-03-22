@@ -1,4 +1,4 @@
-# Challenge 1 - Machine Learning Challenge Track: Predict the quality of freshwater
+# Machine Learning Challenge Track: Predict the quality of freshwater
 
 Welcome to my machine learning submission project! In this repo I used [Intel® Distribution of Modin](https://www.intel.com/content/www/us/en/developer/tools/oneapi/distribution-of-modin.html) to analyze and preprocess the dataset, [Intel® Optimization for XGBoost](https://www.intel.com/content/www/us/en/developer/tools/oneapi/optimization-for-xgboost.html) to create the classification model, and [daal4py from Intel® oneAPI Data Analytics Library (oneDAL)](https://intelpython.github.io/daal4py/) to export and perform inference on the XGBoost model.
 
