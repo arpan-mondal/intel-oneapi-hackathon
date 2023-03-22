@@ -9,7 +9,7 @@ You'll need Docker installed to run the web app (technically you don't need to b
 The most straightforward way if to use Docker. Clone this repo if don't already.
 
 ```bash
-$ git clone --recurse-submodules https://github.com/arpan-mondal/intel-oneapi-hackathon.git
+$ git clone --recurse-submodules https://github.com/arpan-mondal/intel-oneapi-hackathon
 
 $ cd intel-oneapi-hackathon/challenge1/app_web
 
