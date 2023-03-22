@@ -24,7 +24,8 @@ After you run the `docker run` command, you can access the web app at http://loc
 
 Open the web app at http://localhost:8001, then you will be presented with a form with many inputs and a button to show the dashboard summary.
 
-![](./assets/ch1.png)
+![ch1](https://user-images.githubusercontent.com/66848339/226998427-6846a0dd-4fb6-4630-a088-a19b15d6be99.jpg)
+
 
 You can use this sample data point from the dataset to test the web app.
 
@@ -41,7 +42,8 @@ Date: 11 April 2023 04:00 AM
 
 After you have filled out the form, click **Run Prediction**.
 
-![](./assets/ch2.png)
+![ch2](https://user-images.githubusercontent.com/66848339/226998492-56892e29-4ab2-418d-962f-824d3bc89fbd.jpg)
+
 
 The prediction will be showed in the next page, whether it is safe or not for drinking. The probability will also be shown below the prediction result.
 
@@ -49,7 +51,7 @@ The prediction will be showed in the next page, whether it is safe or not for dr
 
 The dashboard shows us some useful key insights from the dataset. I used the [ApexCharts](https://apexcharts.com/) library to render the charts and the data source is from the JSON files processed using Pandas Modin.
 
-![](./assets/ch3.png)
+![ch3](https://user-images.githubusercontent.com/66848339/226998536-5d3b39dc-525b-4dac-b104-7aca8902a9eb.jpg)
 
 Here you can see some charts such as water color, source, and quality percentage along with time series chart of chemical and physical properties of the water. You can select what chemical to plot using the dropdown and you can set the Y-axis scale from auto to 0 using the checkbox.
 
@@ -66,7 +68,8 @@ Note:
 
 Using Postman:
 
-![](./assets/ch4.png)
+![ch4](https://user-images.githubusercontent.com/66848339/226998581-e6f8b3a7-076e-4e8f-9065-37882ce6d121.png)
+
 
 
 Using cURL:
