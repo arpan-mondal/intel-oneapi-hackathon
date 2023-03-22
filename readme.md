@@ -36,7 +36,7 @@ You can find out more about the data preprocessing in the `preprocess.py` about 
 Before running the training process, make sure you have the CSV dataset file. Activate your conda environment and `cd` into `challenge1` directory, then run the `train.py` script.
 
 ```bash
-$ git clone --recurse-submodules https://github.com/arpan-mondal/intel-oneapi-hackathon.git
+$ git clone --recurse-submodules https://github.com/arpan-mondal/intel-oneapi-hackathon
 
 $ cd intel-oneapi-hackathon/challenge1
 
