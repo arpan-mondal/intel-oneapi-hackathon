@@ -1,0 +1,19 @@
+services:
+  freshwater_app_web:
+    build: challenge1/app_web
+    ports:
+      - 8001:8001
+    environment:
+      - PORT=8001
+      - SHOW_APP_MENU=true
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://freshwater_app_web:8001"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+
+  main_web_app:
+    build: main
+    ports:
+      - 8000:80
