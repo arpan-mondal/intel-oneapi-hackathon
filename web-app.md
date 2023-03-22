@@ -1,4 +1,4 @@
-# Challenge 1 - Web App
+# Challenge - Web App for Prediction of Quality of Fresh Water
 
 This challenge 1 project also comes with a web app so you can easily use the model to predict new data, it also provides a simple dashboard to show some key insights from the dataset.
 
