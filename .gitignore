@@ -1,0 +1,20 @@
+# Dataset
+dataset/
+
+# Model Binaries/Checkpoints
+*.bin
+*.pt
+*.onnx
+
+# MLRuns
+mlruns
+
+# Python
+__pycache__
+.ipynb_checkpoints
+
+# ---- Challenge 1
+
+# Run history
+challenge1/runs
+
