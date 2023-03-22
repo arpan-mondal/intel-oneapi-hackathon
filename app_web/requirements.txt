@@ -1,0 +1,4 @@
+daal4py==2023.0.1
+Flask
+Jinja2
+gunicorn
